@@ -33,7 +33,7 @@
         <velocity.version>1.7</velocity.version>
         <jackson.version>2.9.9</jackson.version>
         <fastjson.version>1.2.58</fastjson.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.10.0</shiro.version>
         <alipay.version>3.7.26.ALL</alipay.version>
         <bestPay.version>1.2.0</bestPay.version>
         <wxPay.version>3.4.0</wxPay.version>
